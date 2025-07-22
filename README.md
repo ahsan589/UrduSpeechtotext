@@ -15,4 +15,21 @@ This project converts **Urdu language audio or video files** into accurate writt
 
 ---
 
+## 📽️ Demo
+
+🎬 [Download/Watch Demo Video](assets/video.mp4)
+
+_The demo shows the complete workflow from uploading Urdu audio/video to getting accurate text output._
+
+> ⚠️ GitHub doesn’t support inline video playback for `.mp4`. Clicking the link will allow users to download or view it directly.
+
+---
+
+## 🛠️ How It Works
+
+1. Upload your audio/video file
+2. Audio is extracted (if needed)
+4. Transcription is saved as `.txt` or `.srt`
+
+
 
