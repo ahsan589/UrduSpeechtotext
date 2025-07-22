@@ -17,7 +17,7 @@ This project converts **Urdu language audio or video files** into accurate writt
 
 ## 📽️ Demo
 
-🎬 [Download/Watch Demo Video](assets/video.mp4)
+🎬 [Download/Watch Demo Video](app/src/main/res/assets/video.mp4)
 
 _The demo shows the complete workflow from uploading Urdu audio/video to getting accurate text output._
 
